@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently studying new technologys at [Rocketseat](https://github.com/Rocketseat)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, React.JS**
 
 <br><br>
 
