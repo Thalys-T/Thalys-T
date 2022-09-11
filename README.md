@@ -6,7 +6,7 @@
 
 - 🔥 SQL Developer for 1 Year
 
-- 🔭 I’m currently studying new technologys at [Rocketseat](https://github.com/Rocketseat)
+- 🔭 I’m currently studying new technologies at [Rocketseat](https://github.com/Rocketseat)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, React.JS**
 
