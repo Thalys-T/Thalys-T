@@ -3,7 +3,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thalys-t&label=Profile%20views&color=0e75b6&style=flat" alt="thalys-t" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thalys-t&theme=dracula" alt="thalys-t" /></a> </p>
+<p align="center" >
+  <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma">
+    <img src="https://github-profile-trophy.vercel.app/?username=Thalys-T&theme=dracula&margin-w=8-ma&title=Commits,Followers,Repositories,Stars&row=2&column=4" alt="paulolealsd" /> </a>
+</p>
 
 - 💬 Ask me about **TypeScript, HTML, CSS, SQL, ReactJS**
 
