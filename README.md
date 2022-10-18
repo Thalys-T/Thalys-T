@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Thalys-T/f1f81b585d1240f46eea85e4232f2faa/raw/2c08c46369e8af307ee1409e4fdf88fba836196c/githubcardnew.svg"/>
+<img align="right" height="590em" 
 
 <h1 align="left">Hi <img height="50px" width="50px"  src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Thalys T. Menezes</h1>
 
