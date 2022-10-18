@@ -27,9 +27,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thalys-T&layout=compact&langs_count=16&theme=dracula"/>
   <img height="180em" src="https://media.giphy.com/media/Cmr10MJ2FN0B2/giphy.gif"/>
   
-  https://github.com/Thalys-T/Thalys-T/blob/output/github-contribution-grid-snake.gif
-  
-  ![Snake animation](https://github.com/Thalys-T/Thalys-T/blob/output/generate-snake-game-from-github-contribution-grid.svg)
+![Snake animation](https://github.com/Thalys-T/Thalys-T/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
