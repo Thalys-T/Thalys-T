@@ -1,4 +1,4 @@
-<img align="right" height="590em" 
+
 
 <h1 align="left">Hi <img height="50px" width="50px"  src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Thalys T. Menezes</h1>
 
