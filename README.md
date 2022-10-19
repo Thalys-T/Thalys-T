@@ -7,7 +7,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Thalys-T&theme=radical&margin-w=8-ma&title=Commits,Followers,Repositories,Stars&row=2&column=4" alt="Thalys-T" /> </a>
 </p>
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thalys-t&theme=radical" alt="thalys-t" /></p>
-
+<hr>
 - 💬 Ask me about **JavaScript, TypeScript, ReactJS, HTML, CSS, SQL**
 
 - 🌱 I’m currently specializing in **TypeScript & React**
