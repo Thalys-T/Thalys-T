@@ -92,11 +92,12 @@
 
 
 
-<div align="center"> <a href="https://github.com/Thalys-T">
+<div align="center"> <a href="https://github.com/Thalys-T"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thalys-T&layout=compact&langs_count=16&theme=radical"/>
-  <img height="180em" src="https://media.giphy.com/media/Cmr10MJ2FN0B2/giphy.gif"/>
+  
   <img height="180en" src="https://github-readme-stats.vercel.app/api?username=Thalys-T&show_icons&theme=radical&include_all_commits=true&count_private=true"/>
-
+</div>
+<div align="center" stylesheet=row>
 
 ![Snake animation](https://github.com/Thalys-T/Thalys-T/blob/output/github-contribution-grid-snake.svg)
 
