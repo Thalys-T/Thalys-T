@@ -8,16 +8,13 @@
 </p>
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thalys-t&theme=radical&count_private=true" alt="thalys-t" /></p>
 <hr>
-- 💬 Ask me about **JavaScript, TypeScript, ReactJS, HTML, CSS, SQL**
+
 
 - 🌱 I’m currently specializing in **TypeScript & React**
-
+- 💬 Ask me about **JavaScript, TypeScript, ReactJS, HTML, CSS, SQL**
 - 🔭 I’m currently studying new technologies at [Rocketseat](https://github.com/Rocketseat)
-
 - 📚 I'm coursing Analysis and Systems Development at [UniLaSalle](https://www.unilasalle.edu.br/) 
-
 - ⚡ Fun facts: Passionate gamer, drawing entusiasthic, debatable video-editor.
-
 - 📫 How to reach me  [![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalystnmenezes/)](https://www.linkedin.com/in/thalystnmenezes/) 
 &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-thalys.tauan@ulbra.inf.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:regisoliveiramelo@gmail.com)](mailto:regisoliveiramelo@gmail.com)
