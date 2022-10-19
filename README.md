@@ -4,9 +4,9 @@
 
 <p align="center" >
   <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma">
-    <img src="https://github-profile-trophy.vercel.app/?username=Thalys-T&theme=radical&margin-w=8-ma&title=Commits,Followers,Repositories,Stars&row=2&column=4" alt="Thalys-T" /> </a>
+    <img src="https://github-profile-trophy.vercel.app/?username=Thalys-T&theme=radical&margin-w=8-ma&title=Commits,Followers,Repositories,Stars&row=2&column=4&count_private=true" alt="Thalys-T" /> </a>
 </p>
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thalys-t&theme=radical" alt="thalys-t" /></p>
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thalys-t&theme=radical&count_private=true" alt="thalys-t" /></p>
 <hr>
 - 💬 Ask me about **JavaScript, TypeScript, ReactJS, HTML, CSS, SQL**
 
@@ -94,7 +94,7 @@
 
 <div align="center" stylesheet=row> <a href="https://github.com/Thalys-T"> 
   <img height="180en" src="https://github-readme-stats.vercel.app/api?username=Thalys-T&show_icons&layout=compact&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thalys-T&layout=compact&langs_count=16&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thalys-T&layout=compact&langs_count=16&layout=compact&theme=radical&count_private=true"/>
   
 </div>
 <div align="center" >
