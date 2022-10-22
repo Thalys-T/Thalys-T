@@ -17,7 +17,7 @@
 - ⚡ Fun facts: Passionate gamer, drawing entusiasthic, debatable video-editor.
 - 📫 How to reach me  [![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalystnmenezes/)](https://www.linkedin.com/in/thalystnmenezes/) 
 &nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-thalys.tauan@ulbra.inf.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:regisoliveiramelo@gmail.com)](mailto:regisoliveiramelo@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-thalys.tauan@ulbra.inf.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thalys.tauan@ulbra.inf.br)](mailto:thalys.tauan@ulbra.inf.br)
 &nbsp;
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-20CB60?style=flat-square&logo=whatsapp&logoColor=white&link=http://wa.me/5551992838505)](http://wa.me/5551992838505)
 &nbsp;
