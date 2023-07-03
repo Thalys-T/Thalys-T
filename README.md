@@ -87,9 +87,6 @@
 
 ![Snake animation](https://github.com/Thalys-T/Thalys-T/blob/output/github-contribution-grid-snake.svg)
 
- <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=Thalys-T&theme=dracula"/>
-
-
 </div>
 
 
