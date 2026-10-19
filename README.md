@@ -1,92 +1,78 @@
-<h1 align="center" style=bold>Hi 👋, I'm Thalys </h1>
-<h3 align="center">A passionate developer from Brazil</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=thalys-t&label=Profile%20views&color=0e75b6&style=flat" alt="thalys-t" /> </p>
+<h1 align="center">Hi 👋, I'm Thalys</h1>
+<h3 align="center">Systems Analyst | Technical Support &amp; API Integrations</h3>
 
-<p align="center" >
-  <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma">
-    <img src="https://github-profile-trophy.vercel.app/?username=Thalys-T&theme=radical&margin-w=8-ma&title=Commits,Followers,Repositories,Stars&row=2&column=4&count_private=true" alt="Thalys-T" /> </a>
-</p>
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thalys-t&theme=radical&count_private=true" alt="thalys-t" /></p>
-<hr>
-
-
-- 🌱 I’m currently specializing in **TypeScript & React**
-- 💬 Ask me about **JavaScript, TypeScript, ReactJS, HTML, CSS, SQL**
-- 🔭 I’m currently studying new technologies at [Rocketseat](https://github.com/Rocketseat)
-- 📚 I'm coursing Analysis and Systems Development at [UniLaSalle](https://www.unilasalle.edu.br/) 
-- ⚡ Fun facts: Passionate gamer, drawing entusiasthic, debatable video-editor.
-- 📫 How to reach me  [![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalystnmenezes/)](https://www.linkedin.com/in/thalystnmenezes/) 
-&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-thalys.tauan@ulbra.inf.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thalys.tauan@ulbra.inf.br)](mailto:thalys.tauan@ulbra.inf.br)
-&nbsp;
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-20CB60?style=flat-square&logo=whatsapp&logoColor=white&link=http://wa.me/5551992838505)](http://wa.me/5551992838505)
-&nbsp;
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/id/GhostTl/)](https://steamcommunity.com/id/GhostTl/)
-&nbsp;
-
-
-<hr>
-
-
-<h3 align="center">Languages and Tools:</h3>
-<p 
-	align="center"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-	<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-</a>
-<a 
-	href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a> 
-<a
-	href="https://www.figma.com/" target="_blank" rel="noreferrer">
-	<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-</a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a>
-<a 
-	href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> 
-<a 
-	href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
- <a 
-	href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-	<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
- 
-</a>
- <a
-	href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-</a> 
-<a 
-	href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a> 
- <a
-	href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-</a>
- <a
-	href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-	<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-</a>
- <a 
-	href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</a> 
-</p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Thalys-T&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="Profile views" />
 </p>
 
 <hr>
 
-<div align="center" >
+About me
+I'm a Systems Analyst at Reiterlog, based in Canoas, Brazil. My work focuses on supporting business applications, investigating production incidents and maintaining REST API integrations.
+- 🔎 I investigate application issues and data inconsistencies using PostgreSQL queries, JSON payloads and system configurations.
+- 📊 I use Grafana to monitor database and network status.
+- 🤝 I work with customers and technical teams to reproduce issues, document findings and validate fixes.
+- 🌍 I provide technical support in Portuguese and English, including communication with international teams.
+- 💻 My background also includes software development, quality assurance and RPA.
+- 📚 I'm studying Systems Analysis and Development at La Salle University, with graduation expected in December 2028.
+- 🎮 Outside of work, I enjoy gaming, anime, music and volleyball.
+<hr>
 
-![Snake animation](https://github.com/Thalys-T/Thalys-T/blob/output/github-contribution-grid-snake.svg)
+<h3 align="center">Support, Databases &amp; Integrations</h3>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/JSON-292929?style=for-the-badge&amp;logo=json&amp;logoColor=white" alt="JSON" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&amp;logo=grafana&amp;logoColor=white" alt="Grafana" />
+</p>
 
+<h3 align="center">Development Background</h3>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40" />
+</p>
+
+<hr>
+
+<h3 align="center">Connect with me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/thalystnmenezes/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="mailto:th.tauanmnz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email: th.tauanmnz@gmail.com" />
+  </a>
+  <a href="https://wa.me/5551992450748">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://steamcommunity.com/id/GhostTl/">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&amp;logo=steam&amp;logoColor=white" alt="Steam" />
+  </a>
+</p>
+
+<hr>
+
+<h3 align="center">GitHub Activity</h3>
+
+<p align="center">
+  <a href="https://github.com/Thalys-T">
+    <img src="https://github-profile-trophy.vercel.app/?username=Thalys-T&amp;theme=radical&amp;margin-w=8&amp;title=Commits,Followers,Repositories,Stars&amp;row=1&amp;column=4" alt="Thalys's GitHub trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Thalys-T&amp;theme=radical" alt="Thalys's GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Thalys-T/Thalys-T/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</p>
